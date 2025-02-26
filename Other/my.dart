@@ -7,3 +7,14 @@ void main() {
 
   print(output + 10);
 }
+
+
+// comment
+//* comment
+//! comment
+//? comment
+// TODo: comment
+/* multi line comment
+multi line comment
+multi line comment
+*/
