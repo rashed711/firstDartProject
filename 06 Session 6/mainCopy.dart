@@ -1,4 +1,4 @@
-import '../class.dart';
+import 'class.dart';
 
 void main() {
   Human ahmed = Human(height: 160, weight: 70);
