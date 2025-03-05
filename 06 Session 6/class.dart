@@ -1,5 +1,13 @@
+/*
+1 - creat class                   => Human { }
+2 - inetialize the Variables      => Human { int? age;  String? hairColor;   }
+3 - creat a constractor           => Human({this.height, this.weight, this.hairColor});
+4 - create a set and get methods  => set numberOfArms(int numberOfArms) {this._numberOfArms = numberOfArms;}
+
+*/
+
 class Human {
-  int? _numberOfArms = 2;
+  int? _numberOfArms;
   double? height;
   double? weight;
   String? hairColor;
