@@ -1,9 +1,10 @@
-import 'class.dart';
+import '../class.dart';
 
 void main() {
-  Human ahmed = Human(hight: 160, weight: 70);
+  Human ahmed = Human(height: 160, weight: 70);
 
-  ahmed.age = 10;
+  ahmed.numberOfArms = 10;
 
-  print(ahmed.Age);
+  print(ahmed.height);
+  print(ahmed.NumberOfArms);
 }
